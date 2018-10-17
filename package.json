@@ -1,0 +1,28 @@
+{
+  "name": "ready2give",
+  "version": "1.0.0",
+  "description": "This is a website for those who need food and those who have food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharunspi/Ready2Give.git"
+  },
+  "keywords": [
+    "food",
+    "Ready",
+    "to",
+    "give",
+    "charity",
+    "give",
+    "away"
+  ],
+  "author": "sharun k k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharunspi/Ready2Give/issues"
+  },
+  "homepage": "https://github.com/sharunspi/Ready2Give#readme"
+}

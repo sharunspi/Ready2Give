@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/sharunspi/Ready2Give#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "express": "^4.16.4",
     "startbootstrap-coming-soon": "^5.0.0"
   }
